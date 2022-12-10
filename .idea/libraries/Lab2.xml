@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Lab2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ObjectOrientedProgramming-203/Lab2/part1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObjectOrientedProgramming-203/Lab2/part2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObjectOrientedProgramming-203/Lab2/part3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
