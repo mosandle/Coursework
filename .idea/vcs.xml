@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/203" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/203/coursework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2031" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/225/asgn1-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/225/asgn2-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/225/asgn3-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-assignment-1-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-assignment-2-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-assignment-3-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-assignment-4-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-assignment-5-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-assignment-6-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-lab-4-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-lab-7-mosandle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/357/cpe-357-lab-9-mosandle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ObjectOrientedProgramming-203" vcs="Git" />
   </component>
 </project>
